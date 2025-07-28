@@ -1,0 +1,16 @@
+1. Fermi-Estimation
+
+2. Data Collection
+
+3. Data Pre-processing
+
+4. Exploratory Data Analysis (EDA)
+
+5. Segment Extraction (Clustering Analysis)
+
+6. Profiling the Segments (Insights)
+
+7. Selection of Target Segment
+
+8. Marketing Strategy Recommendation
+
